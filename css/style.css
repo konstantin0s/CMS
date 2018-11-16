@@ -101,6 +101,14 @@ body {
   color: #333333;
 }
 
+.fa {
+  margin-right: 4px;
+}
+
+.fa-plus{
+  margin-left: 65px;
+}
+
 .breadcrumb a {
   color: #333333;
 }

@@ -72,27 +72,6 @@ body{
   color: #ffbbbc;
 }
 
-.main-color-bg {
-  background-color: #e74c3c !important;
-  border-color: #c0392b !important;
-  color: #ffffff !important;
-}
-
-/* header */
-#header {
-  background: #333333;
-  color: #ffffff;
-  padding-bottom: 10px;
-  margin-bottom: 15px;
-}
-
-#header h1 {
-  padding-top: 15px;
-}
-
-#header .create {
-  padding-top: 20px;
-}
 
 
 /* Breadcrumb */
